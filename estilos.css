@@ -1,0 +1,136 @@
+body{background-color: rgb(155, 138, 130);}
+
+.Bandera{
+    background-color: #ccc;
+    width: 350px;
+    height: 200px;
+    margin: 10px;
+}
+
+.alel1{
+    background-color: crimson;
+    height: 25%;
+}
+
+.alel2 {
+    background-color: rgb(229, 225, 16);
+    height: 50%;
+}
+
+.alel3{
+    background-color: crimson;
+    height: 25%;
+}
+#imagen{
+   width: 100px;
+    height: 100px;
+}
+    
+.foto{
+    background-color: #ccc;
+    width: 350px;
+    height: 200px;
+}
+
+#foto{
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    background-color: rgb(231, 220, 220);
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.ale1{
+    background-color: crimson;
+    height: 25%;
+}
+
+.ale2{
+    background-color: rgb(229, 225, 16);
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#imag{
+    width: 35px;
+     height: 35px;
+   
+}
+
+.ale3{
+    background-color: crimson;
+    height: 25%;
+}
+
+.tap1{
+    background-color: rgb(220, 34, 34);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#marruecos {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 75px;
+    height: 75px;
+}
+
+.goles{ 
+    background-color: rgb(220, 34, 34);
+    width: 350px;
+    height: 50px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.partidos{
+    background-color: rgb(92, 57, 57);
+    width: 350px;
+    height: 200px;
+    margin: 10px;
+    align-items: center;
+    display: flex;
+}
+#ganados{
+    background-color: green;
+    height: 80%;
+    width: 08%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+}
+
+#empates{
+    background-color: rgb(132, 141, 132);
+    height: 60%;
+    width: 8%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+}
+
+#perdidos{
+    background-color: rgb(186, 29, 29);
+    height: 40%;
+    width: 08%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+}
